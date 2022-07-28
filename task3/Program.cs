@@ -29,4 +29,4 @@ switch (a)
         break;
 }
 }
-else System.Console.WriteLine("Повторите ввод, дней недели всего 7");
+else System.Console.WriteLine("Повторите ввод, дней недели всего 7"); 
